@@ -1,6 +1,6 @@
 ## Drupal Headless And Node
 
-1. Enter the docker directory and run `docker-compose.yaml``.
+1. Enter the docker directory and run `docker-compose.yaml`.
 
 2. Enter the route `localhost:8080` in the Drupal configuration.
 
