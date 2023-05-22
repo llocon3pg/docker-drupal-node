@@ -1,0 +1,6 @@
+{
+  "baseURI": "http://localhost:8080",
+  "list_view": "/api/nodes/list",
+  "format_query": "?_format=json",
+  "single_node_view": "/node"
+}
